@@ -25,6 +25,14 @@ To answer it, I:
 
 ---
 
+## 📷 Dashboard Preview
+
+![Excel Dashboard](21.06.2025_10.15.47_REC.png)
+
+
+
+---
+
 ## 🔍 Key Questions I Answered
 
 - Which departments and job roles have the highest attrition rates?
