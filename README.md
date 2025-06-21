@@ -41,6 +41,28 @@ To answer it, I:
 - How does overtime or income level affect attrition?
 - What patterns can be seen across education levels and tenure?
 
+
+
+
+### 📌 From SQL Analysis:
+- **Departments with highest attrition**: Sales and Human Resources
+- **Job role with the highest attrition**: Sales Representative
+- **Age group with highest attrition**: 18–25 years
+- **Education groups most at risk**: Below College and College
+- **Job Satisfaction**: Lower satisfaction directly correlates with higher attrition
+- **Overtime impact**: Employees who work overtime are **3x more likely** to leave
+- **Salary trend**: Lower monthly income is strongly linked to higher attrition
+
+### 📌 From Excel Dashboard:
+- **Total employees**: 1,470
+- **Employees who left**: 237 → **16.1% attrition rate**
+- **Average monthly salary**: $6,503
+- **Average job satisfaction**: 2.7 out of 4
+- **Tenure insight**: Highest attrition among employees who:
+  - Stayed **over 30 years** (likely retirement)
+  - Stayed **less than 10 years** (main focus for HR retention strategy)
+
+
 ---
 
 ## 🧾 SQL-Based Insights
